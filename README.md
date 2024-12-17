@@ -25,7 +25,7 @@ To use this bot, you'll need to create a Telegram bot and obtain its token. Here
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rodmutt/telegram-payment-proof-bot.git
+   git clone https://github.com/dabiexe/telegram-payment-proof-bot.git
    ```
 
 2. Navigate to the project directory:
